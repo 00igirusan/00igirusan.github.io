@@ -1,6 +1,6 @@
 {
-  "name": "luigioctaviano-website",
-  "version": "1.0.0",
+  "name": "lroctaviano-website",
+  "version": "1.0.1",
   "private": true,
   "type": "module",
   "scripts": {
@@ -25,5 +25,5 @@
     "eslint-plugin-vue": "^9.17.0",
     "vite": "^5.1.6"
   },
-  "homepage": "https://luigioctaviano.github.io/luigioctaviano.github.io/"
+  "homepage": "https://lroctaviano.github.io/lroctaviano.github.io/"
 }

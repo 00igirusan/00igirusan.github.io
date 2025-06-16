@@ -24,7 +24,7 @@
             <div class="contact-buttons-container">
                 <div class="contact-buttons">
                     <button onclick="location.href='mailto:luigioctaviano@gmail.com'" class="contact-button contact-email-button">Send Email</button>
-                    <a href="https://drive.google.com/file/d/1sqaxVWBZqrgiITQOQwFe7FT0jjMd3avk/view?usp=sharing" class="contact-button contact-download-button" target="_blank">View my CV</a>
+                    <a href="https://drive.google.com/file/d/1TrcQwgsFskHC0PFQbZIMpSOYLj0yv6Gp/view?usp=sharing" class="contact-button contact-download-button" target="_blank">View my CV</a>
                 </div>
             </div>
         </div>
@@ -42,7 +42,7 @@ export default {
                     location.href = 'tel:+639062839275'
                     break
                 case 'github':
-                    window.open('https://github.com/luigioctaviano', '_blank')
+                    window.open('https://github.com/lroctaviano', '_blank')
                     break
                 case 'jobsteet':
                     window.open('https://www.jobstreet.com.ph/profile/luisrafael-octaviano-RfbDvbgZq6', '_blank')

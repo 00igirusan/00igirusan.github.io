@@ -23,7 +23,7 @@ export default {
     }
   },
   mounted () {
-    const getOriginDate = new Date ('April 3, 2017 00:00:00')
+    const getOriginDate = new Date ('July 21, 2017 00:00:00')
     const getCurrentDate = new Date ()
 
     this.getNumOfYears = this.getYearsDifference(getCurrentDate, getOriginDate)

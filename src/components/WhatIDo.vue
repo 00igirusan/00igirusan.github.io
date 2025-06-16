@@ -45,7 +45,7 @@ export default {
                     icon: 'mdi-palette',
                     title: 'Front-End Development',
                     description: 'I am responsible in creating the aesthetics of a website and ensures that the web applications that I create works on all devices - whether it is on PC or on Mobile. Lastly, I can do Progressive Web Apps as well.',
-                    devtools: ['html5-plain-wordmark colored', 'css3-plain-wordmark colored', 'javascript-plain colored', 'php-plain colored', 'vuejs-plain-wordmark colored', 'vuetify-plain colored', 'wordpress-plain colored' ],
+                    devtools: ['html5-plain-wordmark colored', 'css3-plain-wordmark colored', 'javascript-plain colored', 'php-plain colored', 'vuejs-plain-wordmark colored', 'vuetify-plain colored', 'wordpress-plain colored', 'react-plain colored' ],
                     isHidden: true
                 },
                 {
